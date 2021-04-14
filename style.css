@@ -379,8 +379,16 @@ a:hover {
 .text-decor-bold {
     font-size: 20px;
     color: black !important;
-    max-width: 582px;
+    max-width: 542px;
     height: auto;
+}
+
+.low_IL {
+    margin-top: -12px;
+}
+
+.italic {
+    font-style: italic;
 }
 
 .text-decor-sm {
